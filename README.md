@@ -12,3 +12,12 @@ Simulated Annealing was employed to solve one of the inherent shortcomings of su
 Effectiveness of the proposed algorithm was validated on custom built Python and Gazebo simulation platforms before demonstrating its potential in a real aerial platform using Robot Operating System (ROS) based communication. 
 Full integration of hardware, the robustness of the Simulated Annelaing algorithm and a necessity to further optimise the Potential Field parameters were identified as key areas for improvement. 
 Lastly, this paper outlines the need for a laser range data segmentation and feature extraction algorithm for a more rigorous implementation of Potential Fields in structured environments and discusses the challenges faced in the future implementation of a Simultaneous Localisation and Mapping (SLAM) algorithm.
+
+
+Branches Inlcude:
+- Differential Evolution Optimisation
+- Final Python Worlds
+- Gazebo Simulations Script
+- Gazebo Simulations Setup Files
+- Real Flight Test Scripts
+- Report
